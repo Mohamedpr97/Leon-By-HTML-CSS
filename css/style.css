@@ -566,6 +566,7 @@ button {
 @media (max-width: 767px) {
   .footer {
     flex-direction: column;
+    font-size: 14px;
   }
   .footer p:first-of-type {
     margin-bottom: 10px;
